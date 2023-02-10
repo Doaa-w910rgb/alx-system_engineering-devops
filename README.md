@@ -7,6 +7,6 @@
                   * the working directory, how to print it and how to change it<br>
                   * the characteristics of hidden files and how to list them<br>
                   * ln command<br>
-                  * difference between a hard link and a symbolic link
-                  * learned more about the commands chmod, sudo, su, chown, chgrp
-                  * Linux file permissions
+                  * difference between a hard link and a symbolic link<br>
+                  * learned more about the commands chmod, sudo, su, chown, chgrp<br>
+                  * Linux file permissions<br>
